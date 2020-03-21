@@ -34,3 +34,5 @@
 // console.log(nombre);
 
 // console.log(Object.keys(persona)); //Obtiene el nombre del atributo.
+
+console.log("texto de prueba");
