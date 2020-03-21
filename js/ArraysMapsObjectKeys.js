@@ -34,3 +34,7 @@
 // console.log(nombre);
 
 // console.log(Object.keys(persona)); //Obtiene el nombre del atributo.
+
+
+
+console.log("Ugly of Face");
